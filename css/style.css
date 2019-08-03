@@ -1,0 +1,45 @@
+a:hover {
+	text-decoration: none;
+}
+.bg-ungu {
+	background-color: #948ef7;
+	color: #fff;
+}
+
+#app {
+	background-color: #fefefe;
+}
+
+.bingkai {
+	width: 100%;
+	width: 100%;
+	height: 200px;
+}
+
+.avatar {
+	display: inline;
+	background-color: #fff;
+	position: absolute;
+	bottom: -100px;
+	right: 0;
+	padding: 20px;
+	z-index: 4;
+}
+
+.line::before {
+	content: '';
+	display: block;
+	width: 150px;
+	height: 5px;
+	background-color: #948ef7;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+	.judul {
+		position: absolute;
+		top: -175px;
+		color: #fff;
+	}
+}
