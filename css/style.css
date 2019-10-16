@@ -17,6 +17,10 @@
 	padding-bottom: 20px;
 }
 
+a {
+	color: rgb(129, 129, 129);
+}
+
 a:hover {
 	text-decoration: none;
 }
