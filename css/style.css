@@ -1,3 +1,7 @@
+[class*="col-"] {
+    margin-bottom: 15px;
+}
+
 .container {
 	padding: 0 !important;
 }
@@ -47,6 +51,22 @@ a:hover {
 		top: -175px;
 		color: #fff;
 	}
+}
+
+@media (min-width: 1200px) {
+    .row.row-grid [class*="col-lg-"] + [class*="col-lg-"] {
+        margin-top: 0;
+    }
+}
+@media (min-width: 992px) {
+    .row.row-grid [class*="col-md-"] + [class*="col-md-"] {
+        margin-top: 0;
+    }
+}
+@media (min-width: 768px) {
+    .row.row-grid [class*="col-sm-"] + [class*="col-sm-"] {
+        margin-top: 0;
+    }
 }
 
 .bg-wood {
