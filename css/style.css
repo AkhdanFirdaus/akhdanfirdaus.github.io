@@ -41,17 +41,21 @@ a:hover {
 	display: block;
 	width: 150px;
 	height: 5px;
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-bottom: 10px !important;
 	background-color: #948ef7;
-	margin-bottom: 20px;
-	border-radius: 10px;
 }
 
-.line2 {
+.line2::before {
 	content: '';
 	display: block;
-	width: 300px;
-	height: 10px;
-	background-color: #19888d;
+	width: 150px;
+	height: 5px;
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-bottom: 10px !important;
+	background-color: #fff;
 }
 
 @media (min-width: 1200px) {
@@ -67,7 +71,17 @@ a:hover {
 @media (min-width: 768px) {
     .row.row-grid [class*="col-sm-"] + [class*="col-sm-"] {
         margin-top: 0;
-    }
+	}
+
+	dl > dt {
+		text-align: right;
+	}
+}
+
+@media (max-width: 768px) {
+	dl {
+		text-align: center;
+	}
 }
 
 .bg-wood {
@@ -76,13 +90,16 @@ a:hover {
 	background-size: cover;
 }
 
+.opacity1 {
+	background: rgb(0, 0, 0, 0.6);
+}
+
 .bg-gray {
 	background-color: #F7F7F7;
 }
 
 .bg-ungu {
 	background-color: #948ef7;
-	color: #fff;
 }
 
 .card-deck > .card {

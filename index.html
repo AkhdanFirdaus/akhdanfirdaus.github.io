@@ -6,15 +6,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<title>Akhdan Musyaffa Firdaus</title>
-	<script src="https://kit.fontawesome.com/6c4e910690.js" crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+	<script src="js/all.min.js"></script>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/style.css" />
-	<script src="https://code.jquery.com/jquery-3.4.1.min.js"
-		integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-		integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-		crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -36,7 +30,7 @@
 							<a class="nav-link" href="#myself">Myself</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#myself">I'm a...</a>
+							<a class="nav-link" href="#iam">I'm a...</a>
 						</li>
 					</ul>
 				</div>
@@ -50,14 +44,20 @@
 					</div>
 					<div class="col-md-8">
 						<h1 class="display-4">Hello, I'm Akhdan</h1>
-						<p class="lead">I'm a web and mobile fullstack developer
-						</p>
+						<p class="lead">I'm a web and mobile fullstack developer</p>
+						<a href="tel:+6282117410702" class="btn btn-success rounded-circle shadow-sm text-white"><i
+								class="fab fa-whatsapp"></i></a>
 						<a href="https://www.instagram.com/akhdanfirdaus" target="_blank"
-							class="btn btn-primary rounded-circle text-white"><i class="fab fa-instagram"></i></a>
-						<a href="https://github.com/AkhdanFirdaus/" target="_blank"
-							class="btn btn-primary rounded-circle text-white"><i class="fab fa-github"></i></a>
+							class="btn btn-danger rounded-circle shadow-sm text-white"><i
+								class="fab fa-instagram"></i></a>
 						<a href="https://www.facebook.com/akhdan.firdaus" target="_blank"
-							class="btn btn-primary rounded-circle text-white"><i class="fab fa-facebook-f"></i></a>
+							class="btn btn-primary rounded-circle shadow-sm text-white"><i
+								class="fab fa-facebook-f"></i></a>
+						<a href="https://github.com/AkhdanFirdaus/" target="_blank"
+							class="btn btn-light rounded-circle shadow-sm text-dark"><i class="fab fa-github"></i></a>
+						<a href="mailto:akhdan.musyaffa.firdaus@gmail.com" target="_blank"
+							class="btn btn-light rounded-circle shadow-sm text-danger"><i
+								class="fas fa-envelope"></i></a>
 					</div>
 				</div>
 			</div>
@@ -88,11 +88,11 @@
 					finder, <br> someone that always curious of everything including <b title="real__nisa">you</b></p>
 			</div>
 		</section>
-		<section class="bg-gray">
-			<div class="card-columns text-center">
-				<div class="card border-0">
+		<section class="bg-ungu text-center">
+			<div class="card-columns">
+				<div class="card border-0 shadow-sm">
 					<div class="card-body">
-						<i class="fas fa-user-graduate fa-2x mb-4 d-block text-primary"></i>
+						<i class="fas fa-user-graduate fa-2x mb-4 text-primary"></i>
 						<ul class="list-unstyled">
 							<li>SDN Taman Kopo Indah <br><small>(2013)</small></li>
 							<li>SMPN 1 Margahayu <br><small>(2016)</small></li>
@@ -101,9 +101,9 @@
 						</ul>
 					</div>
 				</div>
-				<div class="card border-0">
+				<div class="card border-0 shadow-sm">
 					<div class="card-body">
-						<i class="fas fa-briefcase fa-2x mb-4 d-block text-info"></i>
+						<i class="fas fa-briefcase fa-2x mb-4 text-info"></i>
 						<ul class="list-unstyled">
 							<li>PT. Aegis Ultima Teknologi
 								<br><small>(Internship)</small>
@@ -113,9 +113,9 @@
 						</ul>
 					</div>
 				</div>
-				<div class="card border-0 rounded-0">
+				<div class="card border-0 shadow-sm">
 					<div class="card-body">
-						<i class="fas fa-star text-warning fa-2x mb-4 d-block"></i>
+						<i class="fas fa-star text-warning fa-2x mb-4"></i>
 						<ul class="list-unstyled">
 							<li>LKS Web Design</li>
 						</ul>
@@ -129,31 +129,56 @@
 				<p class="lead">It's always <b title="real__nisa">you</b></p>
 			</div>
 		</section>
-		<section class="bg-white">
+		<section class="bg-ungu text-white" id="iam">
+			<div class="row text-center">
+				<div class="col-md-4 offset-md-4">
+					<div class="line2"></div>
+					<p class="lead">Here's some from many things I'm <strong>familiar</strong> with</p>
+				</div>
+			</div>
 			<dl class="row">
-				<dt class="col-sm-3">Mobile</dt>
-				<dd class="col-sm-9">Native, React Native, Flutter</dd>
+				<dt class="offset-sm-3 col-sm-3"><span class="badge badge-success">Mobile</span></dt>
+				<dd class="col-sm-3">Native, React Native, Flutter</dd>
 
-				<dt class="col-sm-3">Web</dt>
-				<dd class="col-sm-9">PHP Native, Laravel, CodeIgniter, Node.js, Angular, ReactJS, VueJs</dd>
+				<dt class="offset-sm-3 col-sm-3"><span class="badge badge-danger">Web</span></dt>
+				<dd class="col-sm-3">PHP Native, Laravel, CodeIgniter, Node.js, Angular, ReactJS, VueJs</dd>
 
-				<dt class="col-sm-3">Desktop</dt>
-				<dd class="col-sm-9">VB, C++, C#, Java</dd>
+				<dt class="offset-sm-3 col-sm-3"><span class="badge badge-info">Desktop</span></dt>
+				<dd class="col-sm-3">VB, C++, C#, Java</dd>
 
-				<dt class="col-sm-3">IoT</dt>
-				<dd class="col-sm-9">Arduino</dd>
+				<dt class="offset-sm-3 col-sm-3"><span class="badge badge-primary">IoT</span></dt>
+				<dd class="col-sm-3">Arduino</dd>
 
-				<dt class="col-sm-3">Design</dt>
-				<dd class="col-sm-9">PS, AI, XD</dd>
+				<dt class="offset-sm-3 col-sm-3"><span class="badge badge-warning">Design</span></dt>
+				<dd class="col-sm-3">PS, AI, XD</dd>
 			</dl>
 		</section>
-		<section class="text-white">
-			<h1>Galeri</h1>
-			<div class="line"></div>
+		<section class="text-white text-center opacity1">
+			<div class="row">
+				<div class="col-md-4 offset-md-4">
+					<h1>Why me?</h1>
+					<div class="line"></div>
+					<p class="lead">Theres always a reason why me</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<i class="fas fa-heart fa-2x mb-3 text-danger"></i>
+					<p><b>I always work with heart, cause if not I won't</b></p>
+				</div>
+				<div class="col-md-4">
+					<i class="fas fa-bolt fa-2x mb-3 text-warning"></i>
+					<p><b>I'm fast response even you're ignoring me!</b></p>
+				</div>
+				<div class="col-md-4">
+					<i class="fas fa-smile-wink fa-2x mb-3 text-warning"></i>
+					<p><b>I'm always thinking of you even you let me down!</b></p>
+				</div>
+			</div>
 		</section>
-		<footer class="bg-ungu text-center">
-			Let's collaborate together! - <a
-				href="mailto:akhdan.musyaffa.firdaus@gmail.com"><strong>akhdan.musyaffa.firdaus@gmail.com</strong></a>
+		<footer class="bg-dark text-light text-center">
+			Let's collaborate together! - <a href="mailto:akhdan.musyaffa.firdaus@gmail.com"
+				class="text-primary"><strong>akhdan.musyaffa.firdaus@gmail.com</strong></a>
 			&copy; AkhdanFirdaus. 2019
 		</footer>
 	</div>
