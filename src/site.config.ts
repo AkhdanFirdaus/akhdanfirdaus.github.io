@@ -28,10 +28,14 @@ export const siteConfig: SiteConfig = {
 };
 
 export const profileData = {
-	about:
+	firstname: "Akhdan Musyaffa",
+	lastname: "Firdaus",
+	summary:
 		"Hi, I’m a fullstack developer. I code various programmig language, but deeply in love with flutter and dart 💙.",
 	origin: "",
 	birthdate: "",
+	about:
+		"I'm a person that always try to figuring out about anything instead of asking to other people, but that is me atleast 3 years ago. Now i'm willing to collaborate solving problem and discussing about anything especially in academic and programming world:)",
 	contact: [
 		{
 			name: "Github",
