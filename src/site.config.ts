@@ -2,9 +2,9 @@ import type { SiteConfig } from "@/types";
 
 export const siteConfig: SiteConfig = {
 	// Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
-	author: "Chris Williams",
+	author: "Akhdan Firdaus",
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
-	title: "Astro Theme Cactus",
+	title: "AF Personal Website",
 	// Meta property used as the default description meta property
 	description: "An opinionated starter theme for Astro",
 	// HTML lang property, found in src/layouts/Base.astro L:18
@@ -25,6 +25,75 @@ export const siteConfig: SiteConfig = {
 	webmentions: {
 		link: "https://webmention.io/astro-cactus.chriswilliams.dev/webmention",
 	},
+};
+
+export const profileData = {
+	about:
+		"Hi, I’m a fullstack developer. I code various programmig language, but deeply in love with flutter and dart 💙.",
+	origin: "",
+	birthdate: "",
+	contact: [
+		{
+			name: "Github",
+			link: "https://github.com/akhdanfirdaus",
+		},
+		{
+			name: "Instagram",
+			link: "https://instagram.com/akhdanfirdaus",
+		},
+		{
+			name: "Twitter",
+			link: "https://twitter.com/akhdanmf",
+		},
+		{
+			name: "LinkedIn",
+			link: "https://linkedin.com/akhdanmf",
+		},
+	],
+	programmingSkills: [
+		{
+			name: "Flutter & Dart",
+			desc: "",
+		},
+		{
+			name: "Laravel",
+			desc: "",
+		},
+		{
+			name: "MERN Stack",
+			desc: "Mongo Express React Native",
+		},
+		{
+			name: "Java",
+			desc: "Mongo Express React Native",
+		},
+		{
+			name: "GIT",
+			desc: "",
+		},
+	],
+	fundamentalSkills: [
+		{
+			name: "Problem Solving",
+			desc: "",
+		},
+		{
+			name: "Good Communication",
+			desc: "Indonesia and English",
+		},
+	],
+	education: [
+		{
+			name: "SMKN 1 Katapang",
+			major: "Software Engineering",
+			graduate: "2016",
+		},
+		{
+			name: "UIN Sunan Gunung Djati Bandung",
+			major: "Informatics Engineering",
+			graduate: "2023",
+		},
+	],
 };
 
 // Used to generate links in both the Header & Footer.
