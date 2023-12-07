@@ -23,6 +23,14 @@ const meta = {
 				fetchpriority="high"
 			/>
 		</div>
+		<p>I'm interest in:</p>
+		<ul class="list-inside list-disc">
+			{
+				Array.from(profileData.interest)
+					.sort((a, b) => a.localeCompare(b))
+					.map((obj) => <li>{obj}</li>)
+			}
+		</ul>
 		<p>Here are my some of my programming skill:</p>
 		<ul class="list-inside list-disc">
 			{

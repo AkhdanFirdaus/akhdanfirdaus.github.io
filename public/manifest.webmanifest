@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Akhdan Firdaus Personal Blog",
+	"short_name": "BlogAF",
+	"description": "Akhdan Firdaus's Personal Blog",
 	"icons": [
 		{
 			"src": "/192x192.png",

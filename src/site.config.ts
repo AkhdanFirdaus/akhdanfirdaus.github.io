@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
 	title: "AF Personal Website",
 	// Meta property used as the default description meta property
-	description: "An opinionated starter theme for Astro",
+	description: "Akhdan Firdaus's personal website",
 	// HTML lang property, found in src/layouts/Base.astro L:18
 	lang: "en-GB",
 	// Meta property, found in src/components/BaseHead.astro L:42
@@ -31,7 +31,7 @@ export const profileData = {
 	firstname: "Akhdan Musyaffa",
 	lastname: "Firdaus",
 	summary:
-		"Hi, I’m a fullstack developer. I code various programmig language, but deeply in love with flutter and dart 💙.",
+		"Hi, I’m a fullstack developer. I code various programming language, but deeply in love with flutter and dart 💙.",
 	origin: "",
 	birthdate: "",
 	about:
@@ -98,6 +98,14 @@ export const profileData = {
 			graduate: "2023",
 		},
 	],
+	interest: [
+		"Geospatial",
+		"Coding especially mobile programming",
+		"Internet of Things",
+		"Hiking and Adventure",
+		"Cycling and Swimming",
+		"Watching Movies and Series",
+	],
 };
 
 // Used to generate links in both the Header & Footer.
@@ -112,6 +120,10 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 	},
 	{
 		title: "Blog",
+		path: "/posts/",
+	},
+	{
+		title: "Project",
 		path: "/posts/",
 	},
 ];
