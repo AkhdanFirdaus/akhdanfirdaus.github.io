@@ -9,9 +9,7 @@ tags: ["movie", "review", "drama", "crime", "historical fiction", "martin scorse
 draft: false
 ---
 
-That day, suddenly a movie promo shows up in my timeline with some familiar faces. Yes! That's Leo and De Niro! What a duo paired by el maestro Scorsese!? So that time I don't even know what the movie about, I haven't read any synopsys or even movie trailer. What I do is just looking for any showtimes at the cinema because I was very excited.
-
-Not without reason, that day I don't even know that Martin Scorsese still active making movie. And these people suddenly just appeared out of nowhere. After seeing limited showtime (unable to compete with Indonesian's horror movies), I'm afraid this type of movie will only be held for short time, so I rushed and got a very late night schedule. Here is my honest review!
+That day, suddenly a movie promo shows up in my timeline with some familiar faces out of nowhere. Yes! That's Leo and De Niro! What a duo paired by el maestro Scorsese!? That time I don't even know Martin Scorsese still active making movie and what the movie about, I haven't read any synopsys or even movie trailer. What I do is just looking for any showtimes at the cinema because I was very excited. After seeing limited showtime (unable to compete with Indonesian's horror movies) I rushed and got a very late night schedule. I'm afraid this type of movie will only be held for short time. Here is my honest review!
 
 
 ## Synopsis
@@ -28,7 +26,7 @@ When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage peop
 
 
 ## The Story
-This movie inspired from true history of dark American History. It tells about Ernest Burkhart, a veteran who try to get a life in his uncle's hometown that is belongs to Indian. He feel in love with Mollie, a local woman and his uncle, William Hale known to be wise and rich but actually greedy and wants to control her wealth and property. Sounds like some Indonesian drama😂.
+This movie inspired from true history of dark American History. It tells about Ernest Burkhart, a veteran who try to get a life in his uncle's hometown that is belongs to Indian. He feel in love with Mollie, an Indian rich woman but has health problems. And his uncle, William Hale known to be wise and rich but actually greedy and wants to control her wealth and property. Sounds like some Indonesian drama😂.
 
 I watch this movie without any context and very shocked with the duration of more than 3 hours 😭 Plus i watch it at 9.30pm!
 
