@@ -48,10 +48,10 @@ Acting? De Niro is hella mad with his ambition 😎! Lily Gladstone is the main 
 > -- <cite>William Hale</cite>
 
 ## Who Can Enjoy This Movie?
-This movie suites well for those who enjoy true-crime drama and prioritizes story quality. If you enjoy Oppenheimer, this movie will deliver stronger feeling. If you enjoy movie with a gangster and mafia feel, here you go.
+This movie suites well for those who enjoy true-crime drama and prioritizes story quality. If you enjoy Oppenheimer, this movie will deliver stronger feeling. If you enjoy movie with a gangster and Godfather-like feel, here you go.
 
 ## Summary
-I feel like this movie will be tought opponent for Oppenheimer in many upcoming awards. Good delivery keep us focus and patiently waiting for what happens next. This is real Cinema, one of my best 2023 movie so far 😁. 
+I feel like this movie will be tought rival for Oppenheimer in many upcoming awards. Good delivery keep us focus and patiently waiting for what happens next. This is real Cinema, one of my best 2023 movie so far 😁. 
 
 ![Martin Scorsese in Killers of the Flower Moon](./martin-scorsese-in-killers-of-the-flower.png)
 Final words "sialan gara-gara nonton ni film jam di malem ampe kekunci tengah malem di mall dah kayak episode spongebob kekunci di toko mainan😭"
