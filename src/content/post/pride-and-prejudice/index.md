@@ -15,7 +15,7 @@ Few weeks ago, I just randomly talks about movies with Sonia. Then the topic ent
 Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice? [[IMDB](https://www.imdb.com/title/tt0414387/)]
 
 ## Movie Details
-| Title       | Body                              |
+| Detail      | Body                              |
 |-------------|-----------------------------------|
 | Duration    | 129 minutes                       |
 | Directed By | [Joe Wright](https://www.imdb.com/name/nm0942504) |
