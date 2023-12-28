@@ -45,6 +45,7 @@ Seperti makhluk ghibli pada umumnya. Makhluknya luar biasa indah. Aneh-aneh!
 - Si Bango ini lawak bet, diawal nyeremin, nyebelin, bantu karena terpaksa, tapi diakhir adalah teman yang sangat tulus.
 - Karakter Mahito (tulus), anak yang terampil bikin alat, disini emang terlihat banget masih belum bisa ikhlas kehilangan ibunya, bikin dia jadi bocah yang berusaha bodoamat sama sekitar jadinya pas ngungkapin hal yang krusial kerasa hambar.
 
+## Pengalaman Sinema yang 
 ### Visuals
 Mengingat film ini dibuat selama 7 tahun dari lukisan tangan karya Miyazaki-sensei, visual yang didapat terasa sangat hidup, seperti menonton lukisan berjalan. Feel indah, warm, creepy, bikin betah setiap frame terasa punya sesuatu yang menjadi daya tarik dan bikin betah memandangnya.
 
@@ -59,4 +60,4 @@ Aspek Visual dan Scoring yang sangat megah dan indah dari Ghibli membuat mata da
 
 Hal lain yang sangat disayangkan adalah setelah beberapa kali percobaan, aku gagal mengajak doi untuk nonton bareng, terutama film ini haha, karena setiap film-film dari studio ini disebut dan di anagramkan pasti namanyalah yang akan pertama muncul di pikiranku, syukurlah ia menolaknya dan membuatku berhenti berharap kepadanya dalam hal apapun, setidaknya untuk saat ini. Maaf atas curhatannya😁. Akankah film ini ada director cut nya? mengingat durasi di bioskop terbatas dan masih banyak yang belum dieksplor dari dunia yang begitu kaya dan indah ini?
 
-Bukan film yang dapat diterima dengan baik bagi semua penikmat Ghibli, namun menontonnya seperti melihat karya seni yang akan indah jika ditafsirkan masing-masing. Semoga Miyazaki-sensei masih diberi umur panjang dalam memberikan lebih banyak untuk karya generasi kita saat ini.
+Bukan film yang dapat diterima dengan baik bagi semua orang, namun menontonnya seperti melihat karya seni yang akan indah, seperti dibawa ke pameran lukisan dan . Semoga Miyazaki-sensei masih diberi umur panjang dalam memberikan lebih banyak untuk karya generasi kita saat ini.
