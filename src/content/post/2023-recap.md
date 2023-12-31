@@ -3,7 +3,7 @@ title: "2023 Recap"
 description: "This post is for testing the draft post functionality"
 publishDate: "31 Dec 2023"
 tags: ["reminder"]
-draft: true
+draft: false
 ---
 
 2023 starts with optimistic start, I celebrated it in National Monument of Jakarta during my internship period by exploring Jakarta's night as a symbol we dare to exploring something new.

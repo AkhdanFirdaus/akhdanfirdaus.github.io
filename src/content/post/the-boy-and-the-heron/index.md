@@ -26,9 +26,11 @@ A young boy named Mahito yearning for his mother ventures into a world shared by
 ## Review
 Ghibli terkenal akan dunianya yang sangat imajinatif, indah, dan kaya akan metafora. Begitu main title film ini muncul, perasaan aneh, tidak nyaman, menakutkan sekaligus indah sukses membuat bulu kuduk merinding. Banyak sekali hal surealis yang terkadang menimbulkan banyak pertanyaan, bahkan beberapa adegan yang muncul seringkali membuat bingung untuk menentukan mana yang mimpi dan bukan. Hal ini didukung dengan plot cerita mengenai Mahito, seorang anak yang belum bisa menerima kepergian ibunya dan sering bermimpi buruk mengenai itu.
 
-### Main Point
+### Semi Autobiografi sang Maestro
+
+### Semi Autobiografi sang Maestro
 Filmnya berjalan begitu lambat dan penuh tanda tanya di awal. Film sangat berfokus untuk menunjukan aspek visual didukung scoring musik yang indah didengar, banyak sekali adegan minim dialog, sekalinya ada pun hanya sebatas percakapan biasa dengan emosi yang datar.
-- Tidak ada yang baik atau buruk di dunia ini, pesan yang coba disampaikan oleh Miyazaki-sensei. Setiap hal memiliki alasannya masing-masing untuk bertindak. Pelikan yang memakan warawara, 
+- Tidak ada yang baik atau buruk di dunia ini, pesan yang coba disampaikan oleh Miyazaki-sensei. Setiap hal memiliki alasannya masing-masing untuk bertindak. Pelikan yang memakan warawara,
 - Bagaimana Mahito berduka dengan selalu memimpikan ibunya, konflik batin, hingga menyebabkan ia menjadi sosok pendiam yang acuh terhadap orang lain. Hingga perjalanan fantasi yang membuatnya lebih memaknai hidup. Sayang sekali penyampaiannya tidak diceritakan begitu baik sehingga penonton tidak terlalu terikat dengan emosi yang dirasakan oleh Mahito ini.
 - Konflik yang dimunculkan juga tidak serumit dan seberat film Ghibli biasanya. Namun, Ghibli tetap konsisten memunculkan karakter antagonis yang unik, pada film ini burung parkit pemakan manusia yang lucu
 - Metafora yang coba disampaikan terlalu sederhana, kayak perumpamaan surga, tuhan (kayak bruce al mighty, pengen pensiun). Nah si Mahito ini dijadiin penerus gitu wkwkw. Namun konsep waktu yang sedang digandrungi oleh film-film masa kini terlebih setelah adanya film Endgame dan Loki membuat banyak twist yang diluar dugaan.
@@ -38,14 +40,14 @@ Filmnya berjalan begitu lambat dan penuh tanda tanya di awal. Film sangat berfok
 ### Characters
 ![Warawara](./boy-and-heron-warawara.jpeg)
 
-Seperti makhluk ghibli pada umumnya. Makhluknya luar biasa indah. Aneh-aneh! 
-- Ada yang lucuk kayak doodle (warawara) dengan cerita latar belakang nya bagus, kalau udah dewasa jadi balon terus terbang untuk dilahirkan. 
-- Pelikan nganggap dunia indah ini neraka karena gada apapun yang bisa diambil di laut, makanya makan warawara. 
-- Himi, gadis yang nemenin sepanjang perjalanan, itu sebenernya ibunya si Mahito, sayang sekali pengungkapannya kayak berlalu begitu aja. 
+Seperti makhluk ghibli pada umumnya. Makhluknya luar biasa indah. Aneh-aneh!
+- Ada yang lucuk kayak doodle (warawara) dengan cerita latar belakang nya bagus, kalau udah dewasa jadi balon terus terbang untuk dilahirkan.
+- Pelikan nganggap dunia indah ini neraka karena gada apapun yang bisa diambil di laut, makanya makan warawara.
+- Himi, gadis yang nemenin sepanjang perjalanan, itu sebenernya ibunya si Mahito, sayang sekali pengungkapannya kayak berlalu begitu aja.
 - Si Bango ini lawak bet, diawal nyeremin, nyebelin, bantu karena terpaksa, tapi diakhir adalah teman yang sangat tulus.
 - Karakter Mahito (tulus), anak yang terampil bikin alat, disini emang terlihat banget masih belum bisa ikhlas kehilangan ibunya, bikin dia jadi bocah yang berusaha bodoamat sama sekitar jadinya pas ngungkapin hal yang krusial kerasa hambar.
 
-## Pengalaman Sinema yang 
+## Pengalaman Sinema yang
 ### Visuals
 Mengingat film ini dibuat selama 7 tahun dari lukisan tangan karya Miyazaki-sensei, visual yang didapat terasa sangat hidup, seperti menonton lukisan berjalan. Feel indah, warm, creepy, bikin betah setiap frame terasa punya sesuatu yang menjadi daya tarik dan bikin betah memandangnya.
 

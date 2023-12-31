@@ -15,6 +15,8 @@ draft: true
 - Annisa
 - Luthfi
 - Naufal
+- Sabiq
+- Afrinaldi
 
 ## Our Goals
 
