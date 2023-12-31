@@ -1,6 +1,6 @@
 ---
 title: "2023 Recap"
-description: "This post is for testing the draft post functionality"
+description: "How's 2023 going for me? "
 publishDate: "31 Dec 2023"
 tags: ["reminder"]
 draft: false
@@ -10,7 +10,7 @@ draft: false
 
 This year I found new family, person I consider as parent, brother, sister even though we only spent a short time together. I just can't thanks enough for them. Meet exceptional people, the kindness, unique, true friends, are affecting my perspective and paradigm of the way I see, interacting, and appreciate people.
 
-This year I learn to know myself. Spending time for my own, is the best thing happened and the best way to heal myself. Unlocking new skills and financial management is good. Seeing other people achievement are best booster for motivate myself. New habbit like doing fitness, wake up in the morning, sleep enough, gave myself more time to rest are good investment. Start writing is good to clear my mind eventhought the draft not finished yet.
+This year I learn to know myself. Spending time for my own, is the best thing happened and the best way to heal myself. Unlocking new skills and financial management is good. Seeing other people achievement are best booster for motivate myself. New habbit like doing fitness, wake up in the morning, sleep enough, gave myself more time to rest are good investment. Watching movies or series, waiting for an episode every week and maybe wait for another year are worth to wait. And start writing is good to clear my mind eventhought the draft not finished yet.
 
 Separate with partner is very hard to take, but life's goes on. Fall in love with someone new is not going to make it better. The journey still long to find my own true love, I have to be more patience and do the best to add value for myself.
 
