@@ -16,8 +16,7 @@ That day, suddenly a movie promo shows up in my timeline with some familiar face
 When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery [[IMDB](https://www.imdb.com/title/tt5537002/)].
 
 ## Movie Details
-
-| Title       | Body                              |
+| Detail      | Body                              |
 |-------------|-----------------------------------|
 | Duration    | 206 minutes! not long enough yet! |
 | Directed By | [Martin Scorsese](https://www.imdb.com/name/nm0000217/) |
@@ -26,7 +25,7 @@ When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage peop
 
 
 ## The Story
-This movie inspired from true history of dark American History. It tells about Ernest Burkhart, a veteran who try to get a life in his uncle's hometown that is belongs to Indian. He feel in love with Mollie, an Indian rich woman but has health problems. And his uncle, William Hale known to be wise and rich but actually greedy and wants to control her wealth and property. Sounds like some Indonesian drama😂.
+This movie inspired from true history of dark American History. It tells about Ernest Burkhart, a veteran who try to get a life in his uncle's hometown that is belongs to Indian. He fell in love with Mollie, an Indian rich woman but has health problems. And his uncle, William Hale known to be wise and rich but actually greedy and wants to control her wealth and property. Sounds like some Indonesian drama😂.
 
 I watch this movie without any context and very shocked with the duration of more than 3 hours 😭 Plus i watch it at 9.30pm!
 
@@ -34,7 +33,7 @@ At first I don't understand anything, but the movie consistently gives beautiful
 
 ![Oasage Council](./killers-of-the-flower-oasage-council.png)
 
-It will be good if you guys read some of Oasage Indian Tragedy, because the movie don't give much information, at list for first half of the movie. The writer assumes all audiences have the same understanding, but with good story telling, audience that has no context at all will be amazed, curious, and attached to the story and every elements involved. The emotion felt so strong, local residents are aware that they are being used and marginalized by newcomer that only wanted their wealth. But they have big heart to accept and keep giving chances for newcomers to live side by side.
+It will be good if you guys read some of Oasage Indian Tragedy, because the movie don't give much information, at least for first half of the movie. The writer assumes all audiences have the same understanding, but with good story telling, audience that has no context at all will be amazed, curious, and attached to the story and every elements involved. The emotion felt so strong, native civilian are aware that they are being used and marginalized by newcomer that only wanted their wealth. But they have big heart to accept and keep giving chances for newcomers to live side by side.
 
 This movie reminds me a lot of Scorsese's previous movie (The Irishman, Goodfellas) Where it has slow paced story telling, simple and relatable scenes yet has it's own purpose. From the beginning we keep getting curious as the questions keep popup in our head, figuring out what happen, who, where, when, why, and how? But as the movie goes on, that questions will be answered one by one. So, 3 hour duration doesn't feel like enough at all. We will feel that the conflict is over, but it turns out it isn't. Without realizing it, we have been brought to the end of the story, but you will not feel satisfied at all. That's the beauty of cinema.
 
