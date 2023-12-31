@@ -1,6 +1,6 @@
 ---
 title: "2023 Recap"
-description: "How's 2023 going for me? "
+description: "2023 may not go so well, but there is always something good in it"
 publishDate: "31 Dec 2023"
 tags: ["reminder"]
 draft: false
