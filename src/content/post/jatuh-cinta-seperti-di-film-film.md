@@ -20,7 +20,7 @@ Synopsis [[IMDB](https://www.imdb.com/title/tt0414387/)]
 ## The Story
 
 > Quote.
-> 
+>
 > -- <cite>Speaker</cite>
 
 

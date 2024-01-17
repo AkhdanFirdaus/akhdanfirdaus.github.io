@@ -18,6 +18,6 @@ Regret for not taking chances when it is available, but past is in the past. Cre
 
 Learning that even you have much time together, sometimes people forget or ignore you. Don't ever thought by helping them they will pay you back and give you the same effort as feedback, that's the most mistake I've take. But, how people treat you is not a mirror of your worth or what You deserve, don't stop being kind to everyone, they deserve treated better. And don't forget to appreciate yourself, you have do the best.
 
-I wrote this in my bed in my own home in the end of the year just to remind me. 2023 ends with much disappointment, yet full of hope. Lot to learn, lot of happiness I can't say enough to they're who accompanied during this heavy journey.
+I wrote this in my bed in my own home in the end of the year just to remind me. 2023 ends with much disappointment, yet full of hope. Lot to learn, lot of happiness I can't say thanks enough to they're who accompanied during this heavy journey.
 
 > Even when you feel empty, feel it's the worst time of your life, you're gonna make it. No one is sent by accident to anyone, it's all written.
